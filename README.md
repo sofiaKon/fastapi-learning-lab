@@ -19,9 +19,8 @@ fastapi-learning-lab/
 │ ├── string_validation/
 │ └── models/
 ├── request_body/ # working with JSON and Pydantic
-└── main.py # optional entry point
+└── README.md 
 ```
-
 
 ---
 
